@@ -8,8 +8,8 @@ app.listen(process.env.PORT || 3000);
 
 function createBot() {
     const bot = mineflayer.createBot({
-        host: 'SERVER_IP.aternos.me', // Bura öz IP-nizi yazın
-        port: 25565,
+        host: 'balux1818-ru.aternos.me', // Bura öz IP-nizi yazın
+        port: 33931,
         username: '7_24_Botu',
         version: false
     });
